@@ -1,3 +1,5 @@
+[![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=demianpog)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @DemianPog
 - 👀 I’m interested in Progamming and Developing
 - 💞️ I’m free to collaborate!
