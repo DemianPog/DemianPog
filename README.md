@@ -1,4 +1,4 @@
-[![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=demianpog&show_icons=true&theme=radical)]
+![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=demianpog&show_icons=true&theme=radical)
 - 👋 Hi, I’m @DemianPog
 - 👀 I’m interested in Progamming and Developing
 - 💞️ I’m free to collaborate!
