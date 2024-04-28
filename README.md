@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @DemianPog
 - 👀 I’m interested in Progamming and Developing
 - 💞️ I’m free to collaborate!
-- 📫 How to reach me on discord with demian.pog
+- 📫 Reach me on discord with demi.ian
 
 <!---
 DemianCodr/DemianCodr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
