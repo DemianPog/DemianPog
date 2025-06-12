@@ -1,5 +1,5 @@
 ![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=demianpog&show_icons=true&theme=radical)
-- 👋 Hi, I’m @DemianPog
+- 👋 Hi, I’m @Demian
 - 👀 I’m interested in Progamming and Developing
 - 💞️ I’m free to collaborate!
 - 📫 Reach me on discord with demi.ian
